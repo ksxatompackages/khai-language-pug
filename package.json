@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/ksxatompackages/khai-language-pug/issues"
   },
-  "homepage": "https://github.com/ksxatompackages/khai-language-pug#readme"
+  "homepage": "https://github.com/ksxatompackages/khai-language-pug#readme",
+  "machines": {
+    "atom": "*",
+    "apm": "*"
+  }
 }
