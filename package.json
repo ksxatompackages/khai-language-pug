@@ -1,6 +1,6 @@
 {
   "name": "khai-language-pug",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pug syntax highlighting (from Visual Studio Code)",
   "repository": {
     "type": "git",
